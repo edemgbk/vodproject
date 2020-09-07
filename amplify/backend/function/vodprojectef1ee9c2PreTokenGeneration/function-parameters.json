@@ -7,9 +7,10 @@
   "functionName": "vodprojectef1ee9c2PreTokenGeneration",
   "resourceName": "vodprojectef1ee9c2PreTokenGeneration",
   "parentStack": "auth",
-  "triggerEnvs": [],
+  "triggerEnvs": "[]",
   "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/PreTokenGeneration",
   "triggerTemplate": "PreTokenGeneration.json.ejs",
   "roleName": "vodprojectef1ee9c2PreTokenGeneration",
-  "skipEdit": true
+  "skipEdit": true,
+  "triggerEventPath": "PreTokenGeneration.event.json"
 }

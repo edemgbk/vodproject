@@ -21,7 +21,9 @@
                 "vodprojectef1ee9c2PreTokenGeneration": {}
             },
             "auth": {
-                "vodprojectef1ee9c2": {}
+                "vodprojectef1ee9c2": {
+                    "hostedUIProviderCreds": "[]"
+                }
             }
         }
     }

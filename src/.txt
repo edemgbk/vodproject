@@ -1,0 +1,2 @@
+Hosted UI Endpoint: https://vodproject02a709ba-02a709ba-dev.auth.us-east-1.amazoncognito.com/
+Test Your Hosted UI Endpoint: https://vodproject02a709ba-02a709ba-dev.auth.us-east-1.amazoncognito.com/login?response_type=code&client_id=4p6eksub0rr0jqs4fhrset8hjf&redirect_uri=http://localhost:3000/home/

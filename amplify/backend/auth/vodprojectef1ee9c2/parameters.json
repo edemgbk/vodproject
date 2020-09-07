@@ -45,7 +45,7 @@
             "Arn"
         ]
     },
-    "useDefault": "default",
+    "useDefault": "defaultSocial",
     "triggers": "{\"CustomMessage\":[\"verification-link\"],\"PreTokenGeneration\":[\"alter-claims\"]}",
     "userPoolGroupList": [],
     "verificationBucketName": "vodprojectef1ee9c2verificationbucket",
@@ -72,5 +72,10 @@
                 "Name"
             ]
         }
-    ]
+    ],
+    "hostedUI": true,
+    "hostedUIDomainName": "vodproject02a709ba-02a709ba",
+    "authProvidersUserPool": [],
+    "hostedUIProviderMeta": "[]",
+    "oAuthMetadata": "{\"AllowedOAuthFlows\":[\"code\"],\"AllowedOAuthScopes\":[\"phone\",\"email\",\"openid\",\"profile\",\"aws.cognito.signin.user.admin\"],\"CallbackURLs\":[\"http://localhost:3000/home/\"],\"LogoutURLs\":[\"http://localhost:3000/\"]}"
 }
