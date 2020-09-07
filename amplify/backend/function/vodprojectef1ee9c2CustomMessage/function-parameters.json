@@ -1,0 +1,24 @@
+{
+  "trigger": true,
+  "modules": [
+    "verification-link"
+  ],
+  "parentResource": "vodprojectef1ee9c2",
+  "functionName": "vodprojectef1ee9c2CustomMessage",
+  "resourceName": "vodprojectef1ee9c2CustomMessage",
+  "parentStack": "auth",
+  "triggerEnvs": [
+    {
+      "key": "RESOURCENAME",
+      "value": "resourceName"
+    }
+  ],
+  "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/utils/../triggers/CustomMessage",
+  "triggerTemplate": "CustomMessage.json.ejs",
+  "roleName": "vodprojectef1ee9c2CustomMessage",
+  "skipEdit": true,
+  "REDIRECTURL": " http://localhost:3000/home",
+  "EMAILSUBJECT": "Account Verification Code",
+  "EMAILMESSAGE": "",
+  "RESOURCENAME": "resourceName"
+}

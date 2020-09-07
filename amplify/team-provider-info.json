@@ -1,0 +1,28 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vodproject-dev-154620-authRole",
+            "UnauthRoleArn": "arn:aws:iam::936540702232:role/amplify-vodproject-dev-154620-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::936540702232:role/amplify-vodproject-dev-154620-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-vodproject-dev-154620-deployment",
+            "UnauthRoleName": "amplify-vodproject-dev-154620-unauthRole",
+            "StackName": "amplify-vodproject-dev-154620",
+            "StackId": "arn:aws:cloudformation:us-east-1:936540702232:stack/amplify-vodproject-dev-154620/4a877eb0-f121-11ea-bb2d-12d8771823f5",
+            "AmplifyAppId": "d3kd715hdohehq"
+        },
+        "categories": {
+            "function": {
+                "vodprojectef1ee9c2CustomMessage": {
+                    "REDIRECTURL": " http://localhost:3000/home",
+                    "EMAILSUBJECT": "Account Verification Code",
+                    "EMAILMESSAGE": ""
+                },
+                "vodprojectef1ee9c2PreTokenGeneration": {}
+            },
+            "auth": {
+                "vodprojectef1ee9c2": {}
+            }
+        }
+    }
+}
